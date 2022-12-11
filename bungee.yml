@@ -1,0 +1,5 @@
+name: DomainWhitelist
+version: 1.0
+main: com.qbasty.domainwhitelist.Main
+description: Whitelist domains
+author: qbasty
